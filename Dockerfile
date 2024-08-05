@@ -6,4 +6,4 @@ WORKDIR /usr/app/
 
 ENTRYPOINT ["java", "-jar", "contact-backend-app.jar"]
 
-EXPOSE 8080
+EXPOSE 8081
